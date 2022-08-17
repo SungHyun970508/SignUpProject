@@ -18,5 +18,4 @@ struct UserInformation {
     var password: String?
 
 
-    
 }
